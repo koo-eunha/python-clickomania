@@ -10,11 +10,15 @@ A solution is successful if it removes every single stone.
 
 Game description from https://www.researchgate.net/publication/220174445_A_Survey_of_NP-Complete_puzzles
 
-## Instructions
+# Instructions
 
 Download the project, and open the "clickomania.py" file and start playing.
 
-## Examples
+# Files
+## clickomania.py
+This is the file we will run to play the game.
+
+# Examples
 
 1. When you clear the puzzle, a message saying "You WON!" will be displayed.
 
