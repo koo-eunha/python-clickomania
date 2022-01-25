@@ -1,10 +1,3 @@
-''' Eunha Koo
-INF1340, Dr. Maher Elshakankiri
-Midterm Project: Clickomania
-Date created: 2021.11.12
-Date last modified: 2021.11.18
-'''
-
 import tkinter as tk
 from random import choice
 
@@ -403,6 +396,3 @@ class Game():
 
 if __name__ == "__main__":
     game = Game() # create GUI
-
-
-
